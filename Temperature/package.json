@@ -1,0 +1,16 @@
+{
+  "name": "temperature",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "sendTemperature.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "web3": "^4.16.0"
+  }
+}
