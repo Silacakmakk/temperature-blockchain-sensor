@@ -91,7 +91,7 @@ inceleme aşamalarında kullanılmıştır. Web3.js dokümantasyonu direk kodlam
 Hackernoon makalesi kavramsal altyapıda, Github projesi ise yapı ve mantık
 kurgusunda referans alınmıştır.
 
-Web3.js resmi dökümantasyonu: https://web3js.readthedocs.io/
+Web3.js resmi dokümantasyonu: https://web3js.readthedocs.io/
 
 HackerNoon: https://hackernoon.com/the-blockchain-iot-tech-stack-163dd1d59d
 
