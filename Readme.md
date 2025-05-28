@@ -74,6 +74,15 @@ Bu ekran görüntüsü, sendTemperature.js dosyasının çalıştırılmasıyla 
 Bu görüntü Remix IDE üzerinde deploy edilmiş TemperatureStorage kontratının arayüzünü göstermektedir. Kontrat fonksiyonları arasında setTemperature (sıcaklık değeri yazma), getTemperature ve temperature (değer okuma) yer almaktadır. Buradan manuel olarak sıcaklık değeri girilerek işlem başlatılabilir.
 
 ![Ekran Görüntüsü](images/image-3.png)
+
+```
+📹 Demo videosu
+```
+Bu video, merkeziyetsiz IoT uygulamaları ve veri güvenliği konularında temel düzeyde fikir vermek amacıyla hazırlanmıştır.
+
+[Demo Videosu Görüntüle](https://youtu.be/0Ukz0dBuihl)
+
+
 ```
 📚 Kaynakça
 ```
@@ -97,5 +106,6 @@ Claude.ai
 ```
 Bu proje MIT lisansı ile lisanslanmıştır. Özgürce kullanılabilir, geliştirilebilir ve
 paylaşılabilir.
+
 
 
